@@ -1,0 +1,44 @@
+{
+  "development": {
+    "username": "long003",
+    "password": "IoRWv65gGjo10GwYiI-yvA",
+    "database": "nodedb",
+    "host": "long003-4985.jxf.gcp-asia-southeast1.cockroachlabs.cloud",
+    "port": 26257,
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "test": {
+    "username": "long003",
+    "password": "IoRWv65gGjo10GwYiI-yvA",
+    "database": "nodedb",
+    "host": "long003-4985.jxf.gcp-asia-southeast1.cockroachlabs.cloud",
+    "port": 26257,
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "production": {
+    "username": "long003",
+    "password": "IoRWv65gGjo10GwYiI-yvA",
+    "database": "nodedb",
+    "host": "long003-4985.jxf.gcp-asia-southeast1.cockroachlabs.cloud",
+    "port": 26257,
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
